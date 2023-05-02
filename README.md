@@ -1,2 +1,5 @@
-# monkeydex
-A collaboration I've been toying with starting. We'll see what it turns into.
+# MonkeyDex
+- Single or multiplayer stock trader simulation game.
+- Invest, sell, and make trades to grow your enterprise.
+
+Project begun May 2, 2023.
